@@ -6,6 +6,7 @@ This is a full-stack application for event registration, built using React for t
 Project Structure  
 Frontend: React (hosted on Vercel)  
 Backend: Express.js, Mongoose, MongoDB Atlas (can be run locally or hosted)  
+
 Features  
 Event management (create, view)  
 User registration for events  
