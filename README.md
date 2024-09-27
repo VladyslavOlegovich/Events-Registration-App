@@ -1,7 +1,7 @@
-Events Registration App
-Level: Middle Level
-url: https://events-registration-app-liard.vercel.app/
-This is a full-stack application for event registration, built using React for the frontend and Express.js with MongoDB for the backend.
+Events Registration App  
+Level: Middle Level  
+url: https://events-registration-app-liard.vercel.app/  
+This is a full-stack application for event registration, built using React for the frontend and Express.js with MongoDB for the backend.  
 
 Project Structure
 Frontend: React (hosted on Vercel)
