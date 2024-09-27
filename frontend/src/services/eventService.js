@@ -1,4 +1,5 @@
-const API_URL = "http://localhost:5000/api";
+// const API_URL = "http://localhost:5000/api";
+const API_URL = "https://events-registration-app-bv5j.onrender.com/api";
 
 export const fetchEvents = async (
   page = 1,
