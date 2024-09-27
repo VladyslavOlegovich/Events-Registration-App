@@ -1,0 +1,43 @@
+.searchBar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.searchBar input {
+  padding-right: 30px;
+  padding-left: 10px;
+  height: 36px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  outline: none;
+}
+
+.searchBar button {
+  padding: 11px 16px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 10px;
+  font-size: 1rem;
+}
+
+.clearIcon {
+  position: absolute;
+  right: 46%;
+  top: 40%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #888;
+  font-size: 36px;
+  user-select: none;
+}
+
+.clearIcon:hover {
+  color: #333;
+}
