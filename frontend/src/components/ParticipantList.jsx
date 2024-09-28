@@ -14,7 +14,7 @@ export const ParticipantList = () => {
     const fetchParticipants = async () => {
       try {
         const response = await fetch(
-          `http://localhost:5000/api/participants/${eventId}`
+          `https://events-registration-app-bv5j.onrender.com/api/participants/${eventId}`
         );
         const data = await response.json();
 
